@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nur ein Traum
+
+This log tracks the cryptographic history and versioning for the song **Nur ein Traum** (nur-ein-traum).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T07:11:42.028702 | `v1` | `73dc036e5d25ab58b5f126d349b1ec09097e7ced3adef06c4d00b1c761e5dce8` | `3dc37590cb135a9ff4ba64769703a958f2ad54e9a19df74b49ddee9ea11af6f3` | `2026-06-27_nur-ein-traum-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
