@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nur-ein-traum/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Nur ein Traum](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nur-ein-traum/) |
+| **Get License** | [Obtain a Music License for Nur ein Traum](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nur-ein-traum/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Zieh mich an dich ran, die Nacht gehört heute nur uns zwei
+> Dein Lächeln im Neonlicht, Baby, ich spür' diesen Vibe
+> Wir cruisen durch die City, no rules, just ride
+> Lass die Welt hinter uns, als hätten wir endlos viel Zeit
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
